@@ -1,0 +1,1 @@
+This is a mini-project to learn how to deconstruct and rebuild and existing web page.
